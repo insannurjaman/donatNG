@@ -1,6 +1,7 @@
 # Donat Playground
 
 ### Bahan:
+- Oli 2 liter
 - 200 cc air mineral
 - 1/2 bungkus ragi instan 11 gram
 - 1/2 kg tepung terigu
